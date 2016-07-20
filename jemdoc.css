@@ -4,12 +4,13 @@ table#tlayout {
     border: none;
     border-collapse: separate;
     background: light-blue;
+	color: black;
 }
 
 body {
     background: light-blue;
 	background-color: light-blue;
-    font-family: Georgia, serif;
+    font-family: 'Courier New';
     padding-bottom: 9px;
     margin: 0;
 }
@@ -21,7 +22,7 @@ body {
     padding-left: 8px;
     padding-right: 8px;
     font-size: 1.2em;
-    font-family: Georgia, serif;
+    font-family: 'Courier New';
     width: auto;
     white-space: nowrap;
     text-align: left;
@@ -131,11 +132,13 @@ h1, h2, h3 {
 
 h1 {
     font-size: 165%;
+	font-family: 'Courier New';
 }
 
 h2 {
     padding-top: 0.8em;
     font-size: 125%;
+	font-family: 'Courier';
 }
 
 h2 + h3 {
@@ -145,6 +148,7 @@ h2 + h3 {
 h3 {
     font-size: 110%;
     border-bottom: none;
+	font-family: 'Courier';
 }
 
 p {
