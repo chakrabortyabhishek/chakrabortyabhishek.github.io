@@ -10,7 +10,7 @@ table#tlayout {
 body {
     background: light-blue;
 	background-color: light-blue;
-    font-family: 'Courier New';
+    font-family: 'Courier';
     padding-bottom: 9px;
     margin: 0;
 }
@@ -22,7 +22,7 @@ body {
     padding-left: 8px;
     padding-right: 8px;
     font-size: 1.2em;
-    font-family: 'Courier New';
+    font-family: 'Courier';
     width: auto;
     white-space: nowrap;
     text-align: left;
@@ -132,7 +132,7 @@ h1, h2, h3 {
 
 h1 {
     font-size: 165%;
-	font-family: 'Courier New';
+	font-family: 'Courier';
 }
 
 h2 {
