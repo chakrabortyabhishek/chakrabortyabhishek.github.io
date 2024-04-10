@@ -372,3 +372,8 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
